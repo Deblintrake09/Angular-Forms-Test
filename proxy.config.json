@@ -1,0 +1,7 @@
+{
+    "/rest/*":{
+        "target":"https://rescountries.eu",
+        "secure":false,
+        "changeOrigin":true
+    }
+}
